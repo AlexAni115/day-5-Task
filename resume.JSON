@@ -1,0 +1,78 @@
+{
+    "personalDetails":{
+        "name":"Alex Pandian L",
+        "mob-no":"9677199376",
+        "mail-id":"lalex115@gmail.com",
+        "Address":{
+            "Plot No":"11",
+            "street":"5th Street",
+            "Area" :"Pozhichalur",
+            "City":"Chennai",
+            "state":"Taminadu",
+            "Pin":"600074"
+        }
+        
+    },
+    "Educattion Qualification":{
+        "Degree":{
+            "BSc":"Bio Technology",
+            "Year":"2004-2007",
+            "College":"Bharath College of Science and Management-Tanjore",
+            "Marks": "60%"
+        },
+        "HSC":{
+            "Year":"2002-2004",
+            "School":"Our Lady of Health Heigher Secondary School-Veilankanni",
+            "Marks":"85%"
+        },
+        "SSLC":{
+            "Year":"2000-2002",
+            "School":"Our Lady of Health Heigher Secondary School-Veilankanni",
+            "Marks":"91%"
+        }
+    },
+    "Work Experience":{
+        "Current":{
+            "Company name":"Eshakti.com Pvt Ltd",
+             "Designation": "Senior Graphic Designer",
+             "Yeras":"2015 - Still working",
+             "Nature of work":"Coordinate with internal and external clients to determine client preferences and set time frames for the projects assigned.",
+             "Nature of work1":"Communicate effectively with team members, ensuring the delivery of business information.",
+             "Nature of work2":"Take responsibility for the development of all team members, ensuring that their skills and knowledge are kept up-to-date and relevant.",
+             "Nature of work3":"Ensure that all team members comply with shift allocations and scheduled activities, enabling the achievement of contact center targets.",
+             "Nature of work4":"Conduct monthly 1-2-1 meetings with all team members, ensuring that constructive feedback is delivered on current performance levels.",
+             "Nature of work5":"Monitor customer contact, ensuring that team members receive feedback and areas for improvement are highlighted.",
+             "Nature of Work6":"Motivate team members to achieve targets, contributing to organisational incentive and motivational activities."
+        },
+        "Previous organization 1":{
+            "Company name":"AON",
+            "Designation":"Benefits Operation Administrator",
+            "Years":  "2012 - 2015",
+            "Role 1":"Responsible for client management and administered several benefit programs which include: medical; dental; vision; prescription; flex spending; COBRA; life insurance; accidental death and dismemberment; short and long term disability; FMLA; retirement and investment plans,",
+            "Role 2":"Payment Monitoring, Payments Refund, Follow-ups, Dropping customer due to nonpayment.",
+            "Role 3":"Working on various tools - TBA, Citrix, People Soft, Plan Sponsor Portal, Control-D, Your Benefits Resources YBR, MS-Excel, MS-Access, MS-Office package. Mainframe: ISPF, CICS, BF Queries, AQUA, Batch Jobs, Upoint, Workbench, ATE, AWS",
+            "Role 4":"Ad -hoc Client Reporting Requests - Facilitates request received from client, apart from ongoing deliverables and review of final report for accuracy",
+            "Role 5":"Research the issues and formulate resolutions/recommendations by analysing fact patterns."
+        },
+        "Previous organization 2":{
+            "Company name":"Dell",
+            "Designation":"Claims Examiner",
+            "Years":  "2010 - 2012"
+        },
+        "Previous organization 3":{
+            "Company name":"Advices Sync",
+            "Designation":"Call center Excutive",
+            "Years":  "2008 - 2010"
+        }
+
+
+
+
+    },
+    "Skills":{
+        "Technical skils":"Html,CSS,Java Script,Photo shop,Illustrator,Ms Office",
+        "Analytical skils":"Problem solving,Analytical thinking"
+       
+    },
+    "Launguage Known":"Tamil,English"
+}
